@@ -12,3 +12,12 @@ html,body{
 /* body{
     font-family: 'Poppins', sans-serif;
 } */
+
+.item:hover{
+    background-color: black;
+    color: white;
+}
+
+button:hover{
+    background-color: #096cff;
+}
